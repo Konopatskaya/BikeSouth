@@ -1,0 +1,17 @@
+name: my14_env
+channels:
+  - defaults
+dependencies:
+  - ipywidgets
+  - jupyter
+  - notebook
+  - scikit-learn=1.6.1
+  - python=3.10
+  - phik
+  - joblib
+  - seaborn
+  - category_encoders
+  - optuna
+  - plotly
+  - eli5
+prefix: C:\Users\eakon\anaconda3\envs\my14_env

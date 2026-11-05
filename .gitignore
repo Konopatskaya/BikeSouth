@@ -33,3 +33,5 @@ conda-meta/
 Thumbs.db  # Windows
 .DS_Store  # macOS 
 
+notebook.ipynb
+BikeSouth.ipynb

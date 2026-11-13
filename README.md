@@ -71,6 +71,13 @@
 ## 🚀 Инструкция по запуску
 
 ### 1. Создание окружения
-```bash
+
 conda create -n my_project_env python=3.10
-conda activate my_project_env
+conda activate my_project_env <br>
+
+### 2. Установка зависимостей
+
+pip install -r requirements.txt
+
+### 3. Запуск ноутбука
+jupyter notebook
